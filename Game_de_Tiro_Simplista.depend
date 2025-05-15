@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1747311499 source:c:\users\gabriel\documents\programs c codeblocks\game_de_tiro_simplista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<math.h>
+	<stdbool.h>
+	"stb_image.h"
+
+1747142818 c:\users\gabriel\documents\programs c codeblocks\game_de_tiro_simplista\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
